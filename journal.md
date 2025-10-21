@@ -37,7 +37,7 @@ Then install these which are essential.
 - pcmanfm
 - firefox-esr
 
-these are ciritcal as lightdm is the user manager, openbox is the window manager, pcmanfm is the file manager and we have Fire Fox to browse the internet.
+these are ciritcal as lightdm is the display/user manager, openbox is the window manager, pcmanfm is the file manager and we have Fire Fox to browse the internet.
 
 for media,
 
